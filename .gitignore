@@ -1,0 +1,7 @@
+.project
+*.xml
+Debug
+Binaries
+Includes
+*.o
+*.d
