@@ -1,7 +1,7 @@
 .project
-*.xml
-Debug
-Binaries
-Includes
-*.o
-*.d
+.xml
+/Debug/
+/Binaries/
+/Includes/
+.o
+.d
